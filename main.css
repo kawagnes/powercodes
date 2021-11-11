@@ -20,7 +20,8 @@ a {text-decoration: none;}
 
 
  <style>
-.navbar {
-    border-top: 5px solid #cabea3;
-}
- </style>
+        .navbar
+        {
+            border:5px solid #000;
+        }
+      </style>
