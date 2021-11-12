@@ -17,13 +17,9 @@ h2 {
 a {text-decoration: none;}
 
 .navbar {
-    border-top: 5px solid #e5dabe;
+  border-top: 5px solid #e5dabe;
 }
 
 .navbar .nav-item.active {
-  background-color: #e5dabe;
-}
-
-.navbar-custom {
   background-color: #EDE8D9;
 }
