@@ -3,7 +3,7 @@ h2 {
     color: #000000;
     
   }
-  .title {
+.title {
     font-size: 45px;
   }
 
@@ -16,6 +16,14 @@ h2 {
 
 a {text-decoration: none;}
 
-	.navbar {
-    border-top: 5px solid #88f2fa;
+.navbar {
+    border-top: 5px solid #e5dabe;
+}
+
+.navbar .nav-item.active {
+  background-color: #e5dabe;
+}
+
+.navbar-custom {
+  background-color: #EDE8D9;
 }
