@@ -11,21 +11,13 @@ h2 {
   body {
     font: 15px Arial;
     background-color: #e5dabe;
+	.navbar {
+    border-top: 5px solid #88f2fa;
+}
   }
   
 
-<STYLE TYPE="text/css">
-<!--
 a {text-decoration: none;}
--->
-</STYLE>
 
-
- <style>
-        .navbar
-        {
-            border:5px solid #000;
-        }
-      </style>
 	  
 	  
