@@ -6,9 +6,11 @@ h2 {
   .title {
     font-size: 45px;
   }
-  body { 
-    background-color: #E5DABE;font-size: 15px
-   
+
+  
+  p {
+    font: 28px Arial;
+    background-color: yellow;
   }
   
 
