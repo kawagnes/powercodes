@@ -20,7 +20,18 @@ a {text-decoration: none;}
   border-top: 5px solid #e5dabe;
 }
 
-<style>
-   .navbar-default .navbar-nav>li>a:focus { color: #DD0000; }
-   .navbar-default .navbar-brand:focus { color: #DD0000; }
-</style
+    <style>
+        .nav-link {
+            color: green;
+        }
+  
+        .nav-item>a:hover {
+            color: green;
+        }
+  
+        /*code to change background color*/
+        .navbar-nav>.active>a {
+            background-color: #C0C0C0;
+            color: green;
+        }
+    </style>
