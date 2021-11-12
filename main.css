@@ -20,6 +20,6 @@ a {text-decoration: none;}
   border-top: 5px solid #e5dabe;
 }
 
-.navbar-default .navbar-nav>.active> a:hover {
-  background: red; /* Anything you want */
-}
+        .navbar-nav>.active>a {
+            background-color: #C0C0C0;
+                 }
