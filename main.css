@@ -20,6 +20,6 @@ a {text-decoration: none;}
   border-top: 5px solid #e5dabe;
 }
 
-.navbar .nav-item.active {
-  background-color: #EDE8D9;
+.nav-item.active {
+  background-color: #e5dabe;
 }
