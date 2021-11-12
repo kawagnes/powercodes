@@ -20,6 +20,10 @@ a {text-decoration: none;}
   border-top: 5px solid #e5dabe;
 }
 
-.navbar .nav-item.active {
-  background-color: #e5dabe;
+.navbar-nav > .active > a {
+  color: aqua;
+  background-color: chartreuse;    
+}
+.nav-item > a:hover {
+  color: aqua;
 }
